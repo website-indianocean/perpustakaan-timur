@@ -1,0 +1,46 @@
+WEBSITE FORMULIR USULAN PEMBELIAN BUKU
+Perpustakaan SMAIT Nur Hidayah
+
+ISI PAKET — SEMUA FILE BERADA DALAM SATU FOLDER
+- index.html: kode lengkap website (HTML + CSS + JavaScript).
+- 7 foto asli perpustakaan (.jpg), termasuk 4 foto pengganti terbaru.
+- 9116.png: logo asli sekolah.
+- logo-trimmed.png: logo yang dipotong hanya pada ruang transparan.
+- PETUNJUK.txt: dokumen petunjuk ini.
+
+CARA MENJALANKAN
+1. Ekstrak ZIP; buka folder WEBSITE_BUKU_SMAIT_NUR_HIDAYAH.
+2. Buka index.html di browser modern. Gambar dan HTML kini ada dalam
+   folder yang sama (tidak ada subfolder aset).
+3. Jika dipublikasikan, unggah SELURUH ISI folder tersebut ke root
+   hosting statis (GitHub Pages, Netlify, atau Vercel).
+4. Tidak diperlukan database, dependensi, atau API WhatsApp.
+
+ALUR FORMULIR
+1. Isi 7 kolom data buku dan pengusul.
+2. Pilih Pratinjau Pesan untuk memeriksa isi.
+3. Centang persetujuan privasi, lalu pilih Kirim via WhatsApp.
+4. Pesan disiapkan menuju nomor pengelola +62 821-3437-2120.
+5. Pengguna WAJIB menekan Kirim di WhatsApp untuk mengirim pesan.
+
+PRIVASI
+Data formulir tidak disimpan oleh website. Detail usulan baru
+ikut dibuka di URL WhatsApp setelah pengguna memilih pengiriman.
+WhatsApp merupakan layanan pihak ketiga.
+
+CATATAN
+Jangan memisahkan index.html dari file JPG dan PNG, agar foto dan
+logo tetap tampil. Alamat website publik hanya tersedia setelah
+website diunggah ke hosting.
+
+PEMBARUAN
+- Nomor WhatsApp: +62 821-3437-2120.
+- Card "Sudut pengetahuan Nusantara" lebih tinggi di ponsel dan desktop.
+- Seluruh file berada dalam satu folder; tidak ada subfolder.
+
+PEMBARUAN FOTO TERBARU
+- 73223.jpg menggantikan 72946.jpg: papan Wishlist Buku.
+- 73224.jpg menggantikan 72949.jpg: Sudut pengetahuan Nusantara.
+- 73222.jpg menggantikan 72948.jpg: Dinding Kolaborasi Mural Kapur.
+- 73226.jpg menggantikan 72943.jpg: papan nama Perpustakaan.
+- Foto lama yang diganti telah dihapus dari paket.
